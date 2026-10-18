@@ -9,6 +9,8 @@ Given a property's age, distance to the nearest MRT (metro) station, number of n
 - **Source:** [UCI Machine Learning Repository, Real Estate Valuation (ID 477)](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set)
 - **Size:** 414 transactions, 6 features, 1 target, no missing values
 - **Area:** Sindian District, New Taipei City, Taiwan (2012–2013)
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/New_Taipei-Xindian.svg/500px-New_Taipei-Xindian.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="200" height="250">
+
 
 | Feature | Description |
 |---|---|
