@@ -1,4 +1,4 @@
-# Real Estate Price Prediction (Taiwan) 
+# Real Estate Price Prediction 
 
 A compact end-to-end regression project that predicts house price per unit area from location and property features, comparing three models and a stacking ensemble.
 
