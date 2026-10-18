@@ -38,6 +38,8 @@ Given a property's age, distance to the nearest MRT (metro) station, number of n
 | Gradient Boosting | [7.35] | [5.12] | [0.62] |
 | Stacking Ensemble | [6.58] | [4.67] | [0.70] |
 
+![Model comparison](images/07_model_comparison.png)
+
 **Best model:** [model name]. [One sentence on whether stacking beat the best single model and by how much.]
 
 ## Key Insights
@@ -54,8 +56,6 @@ Given a property's age, distance to the nearest MRT (metro) station, number of n
 ## Figures
 Saved in [`images/`](images/).
 
-**Model comparison**
-![Model comparison](images/07_model_comparison.png)
 **Correlation Heatmap**
 ![Correlation Heatmap](images/02_correlation_heatmap.png)
 **Location price map**
