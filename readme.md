@@ -41,7 +41,7 @@ Given a property's age, distance to the nearest MRT (metro) station, number of n
 **Best model:** [model name]. [One sentence on whether stacking beat the best single model and by how much.]
 
 ## Key Insights
-**Best model:** Stacking Ensemble, with about 4% lower RMSE than the best single model (Random Forest).
+- **Best Model** The Stacking Ensemble is the best model. It has the lowest RMSE (6.588) and MAE (4.673) and the highest R² (0.703) of the four, so it wins on all three metrics.
 
 ## Key Insights
 - **Stacking gave the best result on every metric.** It cut RMSE from 6.88 (Random Forest) to 6.59 and explained about 70% of the variance in price (R² = 0.703). Combining a linear model with tree models helped because they make different kinds of errors.
