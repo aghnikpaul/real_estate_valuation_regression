@@ -54,8 +54,16 @@ Given a property's age, distance to the nearest MRT (metro) station, number of n
 ## Figures
 Saved in [`images/`](images/).
 
+**Model comparison**
 ![Model comparison](images/07_model_comparison.png)
+**Correlation Heatmap**
+![Correlation Heatmap](images/02_correlation_heatmap.png)
+**Location price map**
 ![Location price map](images/05_location_price_map.png)
+**Best Model Diagnostics**
+![Best Model Diagnostics](images/08_best_model_diagnostics.png)
+**Permutation Importance**
+![Permutation Importance](images/09_permutation_importance.png)
 
 ## How to Run
 ```bash
