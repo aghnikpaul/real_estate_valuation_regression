@@ -59,8 +59,8 @@ Saved in [`images/`](images/).
 
 ## How to Run
 ```bash
-git clone https://github.com/[your-username]/[repo-name].git
-cd [repo-name]
+git clone https://github.com/aghnikpaul/real_estate_valuation_regression
+cd [real_estate_valuation_regression]
 pip install pandas numpy scikit-learn seaborn matplotlib ucimlrepo openpyxl
 python real_estate_valuation_master.py
 ```
@@ -78,5 +78,6 @@ Python · pandas · NumPy · scikit-learn · Seaborn · Matplotlib
 Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. *Applied Soft Computing*, 65, 260–271.
 
 ## Author
-**Aghnik Paul**: Data Analysis · Machine Learning · Business Analysis
+**Aghnik Paul**:
+Data Analysis · Machine Learning · Business Analysis
 [Portfolio](https://aghnikpaul.page.gd) · [LinkedIn](https://www.linkedin.com/in/aghnikpaul)
